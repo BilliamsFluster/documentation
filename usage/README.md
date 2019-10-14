@@ -1,6 +1,6 @@
 # Usage
 
-Basic examples to help you get started with some of the software available in Raspbian
+Here are basic examples to help you get started with some of the software available in Raspbian.
 
 ## Contents
 
